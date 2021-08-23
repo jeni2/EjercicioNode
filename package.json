@@ -1,0 +1,15 @@
+{
+  "name": "reto1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "archivo1.js",
+  "scripts": {
+    "start": "node archivo1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jenifer Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
